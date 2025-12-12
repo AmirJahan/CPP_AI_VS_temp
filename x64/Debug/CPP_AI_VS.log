@@ -1,0 +1,142 @@
+﻿  Ai+AStar.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+AStar.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+AStar.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+AStar.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+AStar.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+AStar.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+AStar.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Ai+AStar.cpp(51,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Ai+BFS.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+BFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+BFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+BFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+BFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+BFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+BFS.cpp')
+  
+  Ai+DFS.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+DFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+DFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+DFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+DFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+DFS.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+DFS.cpp')
+  
+  Ai+Dijkstra.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Dijkstra.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Dijkstra.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Dijkstra.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Dijkstra.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Dijkstra.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Dijkstra.cpp')
+  
+  Ai+GetNeighbors.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+  Ai.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Ai.cpp(46,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Ai.cpp(50,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Ai.cpp(58,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(38,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\ajahanlou\source\repos\CPP_AI_VS\Node.h(52,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CPP_AI_VS.vcxproj -> C:\Users\ajahanlou\source\repos\CPP_AI_VS\x64\Debug\CPP_AI_VS.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
